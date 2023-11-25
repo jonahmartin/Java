@@ -1,0 +1,31 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Nov 13, 2023, 10:11:22 p.m.
+    Author     : jonah
+*/
+body {
+    background: #3e3e42;
+    font-family: "Courier New", Courier, monospace;
+}
+button {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1.25rem;
+}
+table {
+    border: border-collapse;
+}
+td {
+    background: lightgray;
+}
+tr:hover td {
+    font-weight: bold;
+    background: darkgrey;
+}
+th {
+    font-size: 1.5rem;
+    background: #252526;
+    padding: 5px;
+}
